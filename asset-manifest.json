@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/FeedbackApp-React/static/css/main.073c9b0a.css",
-    "main.js": "/FeedbackApp-React/static/js/main.234f3845.js",
-    "static/js/755.7a90ec4d.chunk.js": "/FeedbackApp-React/static/js/755.7a90ec4d.chunk.js",
-    "static/media/logo.svg": "/FeedbackApp-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/FeedbackApp-React/static/css/main.1a24baba.css",
+    "main.js": "/FeedbackApp-React/static/js/main.508eee71.js",
     "index.html": "/FeedbackApp-React/index.html",
-    "main.073c9b0a.css.map": "/FeedbackApp-React/static/css/main.073c9b0a.css.map",
-    "main.234f3845.js.map": "/FeedbackApp-React/static/js/main.234f3845.js.map",
-    "755.7a90ec4d.chunk.js.map": "/FeedbackApp-React/static/js/755.7a90ec4d.chunk.js.map"
+    "main.1a24baba.css.map": "/FeedbackApp-React/static/css/main.1a24baba.css.map",
+    "main.508eee71.js.map": "/FeedbackApp-React/static/js/main.508eee71.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.234f3845.js"
+    "static/css/main.1a24baba.css",
+    "static/js/main.508eee71.js"
   ]
 }
